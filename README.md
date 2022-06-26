@@ -5,5 +5,20 @@ App APK File Link: https://github.com/Other-Now/Self_Help/blob/master/Self_Help.
 
 # Screenshots
 
-## splash Screen
-![](storage folder/filename 6th.jpg)
+## Splash Screen of App
+![](https://github.com/Other-Now/Self_Help/blob/master/storage%20folder/6th.jpg)
+
+## Main Menu Section
+![](https://github.com/Other-Now/Self_Help/blob/master/storage%20folder/1st.jpg)
+
+## Main Menu Section 2nd half
+![](https://github.com/Other-Now/Self_Help/blob/master/storage%20folder/2nd.jpg)
+
+## Reminder or To-Do Setting Section
+![](https://github.com/Other-Now/Self_Help/blob/master/storage%20folder/3rd.jpg)
+
+## To-Do setter Section 
+![](https://github.com/Other-Now/Self_Help/blob/master/storage%20folder/4th.jpg)
+
+## About Us
+![](https://github.com/Other-Now/Self_Help/blob/master/storage%20folder/5th.jpg)
