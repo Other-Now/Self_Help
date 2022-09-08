@@ -21,4 +21,4 @@ A complete self help and healthcare App for all including the COVID-19 patients 
 ![](https://github.com/Other-Now/Self_Help/blob/master/storage%20folder/4th.jpg)
 
 ## About Us
-![](https://github.com/Other-Now/Self_Help/blob/master/storage%20folder/5th.jpg)
+![](https://github.com/Other-Now/Self_Help/blob/master/storage%20folder/5th new.jpg)
